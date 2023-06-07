@@ -1,0 +1,31 @@
+{
+    "products":[
+        {
+        "id": 1,
+        "product": "laptop",
+        "weight": "2kg",
+        "email": "joseph@gmail.com",
+        "contact": "+2348101143815",
+        "status": "Not paid",
+        "image": "https://www.pexels.com/photo/a-laptop-on-a-table-5703527/"
+        },
+        {
+        "id": 2,
+        "product": "phone",
+        "weight": "1.2kg",
+        "email": "emmanuel@gmail.com",
+        "contact": "+2348101143815",
+        "status": "Paid",
+        "image": "https://www.pexels.com/photo/black-smartphone-on-white-table-3999536/"
+        },
+        {
+        "id": 3,
+        "product": "tablet",
+        "weight": "1.5kg",
+        "email": "tomide@gmail.com",
+        "contact": "+2348101143815",
+        "status": "Not paid",
+        "image": "https://www.pexels.com/photo/turned-on-ipad-1334597/"
+        }
+    ]
+}
